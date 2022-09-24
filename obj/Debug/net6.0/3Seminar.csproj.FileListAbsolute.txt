@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\3Seminar\bin\Debug\net6.0\3Seminar.exe
+C:\Users\Администратор\Desktop\3Seminar\bin\Debug\net6.0\3Seminar.deps.json
+C:\Users\Администратор\Desktop\3Seminar\bin\Debug\net6.0\3Seminar.runtimeconfig.json
+C:\Users\Администратор\Desktop\3Seminar\bin\Debug\net6.0\3Seminar.dll
+C:\Users\Администратор\Desktop\3Seminar\bin\Debug\net6.0\3Seminar.pdb
+C:\Users\Администратор\Desktop\3Seminar\obj\Debug\net6.0\3Seminar.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\3Seminar\obj\Debug\net6.0\3Seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\3Seminar\obj\Debug\net6.0\3Seminar.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\3Seminar\obj\Debug\net6.0\3Seminar.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\3Seminar\obj\Debug\net6.0\3Seminar.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\3Seminar\obj\Debug\net6.0\3Seminar.dll
+C:\Users\Администратор\Desktop\3Seminar\obj\Debug\net6.0\refint\3Seminar.dll
+C:\Users\Администратор\Desktop\3Seminar\obj\Debug\net6.0\3Seminar.pdb
+C:\Users\Администратор\Desktop\3Seminar\obj\Debug\net6.0\3Seminar.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\3Seminar\obj\Debug\net6.0\ref\3Seminar.dll
